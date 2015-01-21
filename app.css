@@ -1,0 +1,14 @@
+.scroll-list {
+  margin-top: 1em;
+  border: 1px solid #eee;
+}
+.scroll-list li {
+  height: 2em;
+  padding: 3px;
+}
+.scroll-list li:hover {
+  background-color: #eee;
+}
+.scroll-list li.active {
+  background-color: #bce8f1;
+}
